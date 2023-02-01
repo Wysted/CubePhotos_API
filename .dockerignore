@@ -1,5 +1,7 @@
+# flyctl launch added from .gitignore
+**/.env
+
+**/node_modules
+
+**/datapb
 fly.toml
-Dockerfile
-.dockerignore
-node_modules
-.git
